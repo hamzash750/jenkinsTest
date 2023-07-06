@@ -33,6 +33,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref":"/jenknis-test/",
               "budgets": [
                 {
                   "type": "initial",
